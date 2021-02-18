@@ -10944,3 +10944,12 @@ a.text-dark:focus {
   }
 }
 
+.primo {
+  border: 1px solid black;
+  background-color: red;
+  color: black;
+  border-radius: 5px;
+  padding: 20px;
+  margin-top: 10px;
+}
+

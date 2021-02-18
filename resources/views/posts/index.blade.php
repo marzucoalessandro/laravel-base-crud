@@ -24,5 +24,7 @@
         </tr>
       </tbody>@endforeach
     </table>
+
+    <a class="primo" href="{{route ('posts.create')}}">Crea nuovo post</a>
   </body>
   </html>
